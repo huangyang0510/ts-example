@@ -1,0 +1,28 @@
+{
+  "name": "ts-example",
+  "version": "1.0.0",
+  "description": "My Typescript examples",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangyang0510/ts-example.git"
+  },
+  "keywords": [
+    "hy3384089"
+  ],
+  "author": "HY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huangyang0510/ts-example/issues"
+  },
+  "homepage": "https://github.com/huangyang0510/ts-example#readme",
+  "devDependencies": {
+    "gulp-typescript": "^3.1.6"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
