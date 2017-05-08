@@ -1,1 +1,1 @@
-node_modules
+ts-example/node_modules
