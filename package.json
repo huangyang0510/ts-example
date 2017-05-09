@@ -20,7 +20,12 @@
   },
   "homepage": "https://github.com/huangyang0510/ts-example#readme",
   "devDependencies": {
-    "gulp-typescript": "^3.1.6"
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "gulp-tslint": "^8.0.0",
+    "gulp-typescript": "^3.1.6",
+    "mocha": "^3.3.0",
+    "sinon": "^2.2.0"
   },
   "dependencies": {
     "jquery": "^3.2.1"
