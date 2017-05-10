@@ -1,0 +1,26 @@
+{
+  "name": "ts-example",
+  "description": "My Typescript examples",
+  "main": "gulpfile.js",
+  "authors": [
+    "HY"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "hy3384089"
+  ],
+  "homepage": "https://github.com/huangyang0510/ts-example",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "jasmine-core": "jasmine#^2.6.1"
+  }
+}
